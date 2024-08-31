@@ -1,4 +1,4 @@
-#Astroids in python
+# Astroids in python
 ![Screenshot of the game window showing astroids and a triangular spaceship on screen.](Screenshot%202024-08-31%20235007.jpg?raw=true)
 
 # how to play
